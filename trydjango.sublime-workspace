@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ob",
+				"object-fit"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"tw",
+				"twelve"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bi",
+				"BigBasin"
+			],
+			[
+				"non",
+				"no-open-quote"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"create",
+				"createTextNode"
+			],
+			[
+				"creat",
+				"createTextNode"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marig",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"incorrect"
+			],
+			[
+				"owl",
+				"owlPhoto"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"cra",
+				"createElement"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"png",
+				"png"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"gree",
+				"greeterHead"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"TEX",
+				"text-align"
+			],
+			[
+				"background-",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "trydjango.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jamesMacBook/Dev/trydjango"
+	],
+	"file_history":
+	[
+		"/Users/jamesMacBook/Downloads/Watson - VCard Template 2/html/trydjango.sublime-project",
+		"/Users/jamesMacBook/Downloads/Watson - VCard Template 2/html/mail.php",
+		"/Users/jamesMacBook/Downloads/main.css",
+		"/Users/jamesMacBook/Desktop/codify/week14/bookFinder/js/main.js",
+		"/Users/jamesMacBook/Desktop/codify/week14/bookFinder/index.html",
+		"/Users/jamesMacBook/Desktop/introToC++/firstLastAge.txt",
+		"/Users/jamesMacBook/Desktop/main.c++",
+		"/Users/jamesMacBook/Desktop/Intro to C++",
+		"/Users/jamesMacBook/Downloads/cornell movie-dialogs corpus/movie_conversations.txt",
+		"/Users/jamesMacBook/Desktop/portfolio032818/zodiac2.html",
+		"/Users/jamesMacBook/Desktop/portfolio032818/zodiac.html",
+		"/Users/jamesMacBook/Desktop/portfolio032818/vueRouter.html",
+		"/Users/jamesMacBook/Desktop/portfolio032818/js/vueRouter.js",
+		"/Users/jamesMacBook/Desktop/portfolio032818/js/zodiac.js",
+		"/Users/jamesMacBook/Desktop/portfolio032818/zodiacVue.js",
+		"/Users/jamesMacBook/Desktop/portfolio032818/css/vueRouter.css",
+		"/Users/jamesMacBook/Desktop/portfolio032818/css/main.css",
+		"/Users/jamesMacBook/Desktop/portfolio032818/index.html",
+		"/Users/jamesMacBook/Desktop/codify/week15/week15Vue/css/main.css",
+		"/Users/jamesMacBook/Desktop/codify/week14/week14review/js/main.js",
+		"/Users/jamesMacBook/Desktop/codify/week12/week12exercise/index.html",
+		"/Users/jamesMacBook/Desktop/codify/week8/zodiac/index.html",
+		"/Users/jamesMacBook/Desktop/codify/week8/zodiac/css/main.css",
+		"/Users/jamesMacBook/Desktop/Template/zodiac/css/main.css",
+		"/Users/jamesMacBook/Desktop/codify/week7/showcasePhotos/js/main.js",
+		"/Users/jamesMacBook/Desktop/codify/week7/week7Classwork/main.js",
+		"/Users/jamesMacBook/Desktop/codify/week6/week6Homework1/index.html",
+		"/Users/jamesMacBook/Desktop/codify/week6/week6Homework1/img/cover.jpg",
+		"/Users/jamesMacBook/Desktop/codify/week6/week6Exercise/js.main",
+		"/Users/jamesMacBook/Desktop/codify/week2/picodebugsource/css/main.css",
+		"/Users/jamesMacBook/Desktop/Template/classwork/index.html",
+		"/Users/jamesMacBook/Desktop/codify/week1/googleReplica/favicon.ico",
+		"/Users/jamesMacBook/Desktop/codify/week1/googleReplica/img/Teachers_Day-2012-hp.jpg",
+		"/Users/jamesMacBook/Desktop/codify/week1/week1exercise/img/2C3A7968.jpg",
+		"/Users/jamesMacBook/Downloads/Hello.zip",
+		"/Users/jamesMacBook/Desktop/codify/week1/repoAssignment/css/main.css",
+		"/Users/jamesMacBook/Library/Application Support/Sublime Text 3/Packages/User/openinbrowser.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "trydjango.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"js/vueRouter.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
