@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     #third party
 
     #own
+    'products', 
 ]
 
 # how requests are handled, similar to a package.json file in a create-react-app project 05/18/20
