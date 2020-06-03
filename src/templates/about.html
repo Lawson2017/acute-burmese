@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>About Us</h1>
+
+<h3>{{ title|capfirst|title}}</h3>
+<p>This is a Template.</p>
+
+{{ my_html|safe }}
+<p>
+	{{ my_number }}
+	{{ my_list }}
+</p>
+
+<ul>
+	<li>Item 1</li>
+	<li>Item 2</li>
+</ul>
+
+<ul>
+{% for abc in my_list %}
+	{%if abc == 312%}
+		<li>{{forloop.counter }} - {{ abc|add:22 }}</li>
+	{% elif abc == "abc" %}
+		<li>This is not the network</li>
+	{% else %}
+		<li>{{ forloop.counter }} - {{ abc }}</li>
+	{% endif %}
+
+
+{% endfor %}		
+</ul>
+
+{% endblock %}
+
+
+			<!-- NOTES -->
+			
+			<!-- 'extends 'base.html' replaces html DOM from base file -->
+			<!-- SYNTAX FOR INLINE PYTHON FORLOOP: for <variable_name> in <variable_location_in_vews.py> -->
+			<!-- the 'forloop.counter' provides a number prepending each list item -->
+			<!-- template filters for Django: https://docs.djangoproject.com/en/3.0/ref/templates/builtins/ -->
