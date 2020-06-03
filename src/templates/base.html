@@ -1,7 +1,15 @@
+{% load static %}
+
 <!doctype html>
 <html>
 <head>
+		<!-- This makes the bootstrap css work -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+		<!-- This connects my CSS external stylesheet to the index.html -->
+		<link rel="stylesheet" href="{% static 'css/main.css' %}">
 	<title>Coding for Entrepreneurs is doing Try Django</title>
+
 </head>
 <body>
 	

@@ -9,6 +9,6 @@ def product_detail_view(request):
 	# 	'description': obj.description,
 	# }
 	context = {
-		'object': obj
+		'object': object
 	}
 	return render(request, "product/detail.html", context)
