@@ -9,7 +9,13 @@ def home_view(request, *args, **kwargs): # arguments and keyword arguments
 	return render(request, "home.html", {})
 
 def contact_view(request, *args, **kwargs):
-	return render(request, "contact.html", {})	
+		contacts = {
+			'title': "Jim",
+			2: "Joe",
+			3: "Jack"
+		}
+		return render(request, "contact.html", contacts)
+	
 
 
 def about_view(request, *args, **kwargs):
@@ -21,5 +27,4 @@ def about_view(request, *args, **kwargs):
 		"my_html": "<h1>Hello World</h1>"
 
 	}
-
 	return render(request, "about.html", my_context)	

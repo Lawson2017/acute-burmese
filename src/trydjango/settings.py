@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 
     #third party
 
-    #own
+    #personal build
     'pages', 
     'products',
 ]
@@ -62,6 +62,7 @@ ROOT_URLCONF = 'trydjango.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        # a fluid path that will work for anyone who's downloaded this project and is viewing it locally
         'DIRS': [os.path.join(BASE_DIR, "templates")],
         'APP_DIRS': True,
         'OPTIONS': {
